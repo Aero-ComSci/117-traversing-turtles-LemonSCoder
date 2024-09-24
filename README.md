@@ -16,3 +16,4 @@
 
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+![Video of Code Result](https://github.com/Aero-ComSci/117-traversing-turtles-LemonSCoder/blob/main/images/TraversingTurtlesVid.gif)
