@@ -1,18 +1,21 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K3waziIG)
 # Activity 1.1.7
 
-* Be sure to read and use the markdown here:
-[MarkDown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 * Write a description of what the program does, who is it for?
 ---
 
 ## Questions about the Activity as you work. 
 ```
+- Are there more turtle shapes I can use to add more sides to the n-gon the turtle program is creating?
+- Can I randomize the colors the turtle pen uses for each line created by said pen?
+- Why is the base of my turtle pen (ex. the arrow, the triangle, the turtle) black while its outlines are a different color?
+- Is it possible to make a big n-gon with the turtle pen if my pen starts in a different place?
+- Can I create a different shape (not an n-gon; ex. circle, triangle, semi-circle) with the given turtle program while also ensuring that each turtle pen base (ex. arrow, triangle, turtle) are equidistant to each other?
 
 ```
 #### Description Of The App according to User Story
 
 `
-# Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+# Code Result:
+
 ![Video of Code Result](https://github.com/Aero-ComSci/117-traversing-turtles-LemonSCoder/blob/main/images/TraversingTurtlesVid.gif)
