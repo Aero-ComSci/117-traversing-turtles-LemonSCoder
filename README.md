@@ -14,7 +14,7 @@
 
 ```
 #### Description Of The App according to User Story
-This application, Traversing Turtles, was created for artists and designers alike, allowing for them to create a variety of interesting spirals and shapes.
+This application, Traversing Turtles, was created for artists and designers alike, allowing for them to create a variety of interesting spirals and shapes. This application is able to change the color of each side or segment of each spiral and shape it creates while also changing the pen shape of each side or segment of each piral and shape in the process. Finally, this application allows for artists and designers to utilize many different colors, locations
 
 # Code Result:
 
