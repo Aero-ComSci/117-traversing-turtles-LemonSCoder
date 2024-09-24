@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K3waziIG)
 # Activity 1.1.7
 
-##3 This program draws an n-gon, with each side of the n-gon being a different color and having a different shape for the turtle pen (ex. arrow, triangle, turtle). This program is for anyone who wishes to be stimulated by little shapes being drawn across a screen or want to know the capabilities of the turtle module.
+### This program draws an n-gon, with each side of the n-gon being a different color and having a different shape for the turtle pen (ex. arrow, triangle, turtle). This program is for anyone who wishes to be stimulated by little shapes being drawn across a screen or want to know the capabilities of the turtle module.
 ---
 
 ## Questions about the Activity as you work. 
