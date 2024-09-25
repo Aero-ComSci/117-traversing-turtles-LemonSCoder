@@ -1,25 +1,22 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K3waziIG)
 # Activity 1.1.7
 
-* Utilize this read me to showcase the project.
-* Be sure to read and use the markdown here:
-[MarkDown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Stack Edit for markdown editing](https://stackedit.io)
-
-* Write a description of what the program does, who is it for?
+### This program draws an n-gon, with each side of the n-gon being a different color and having a different shape for the turtle pen (ex. arrow, triangle, turtle). This program is for anyone who wishes to be stimulated by little shapes being drawn across a screen or want to know the capabilities of the turtle module. This program is also for anyone who's interested in creating art or designs via the turtle module.
 ---
 
-
-
-
-### [Book Link](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/88fb6ad306ee44d0b055d9008ace8e80)
-
-
-## Questions about the Activity as you work. 
+## Questions about the Activity:
 ```
+- Are there more turtle shapes I can use to add more sides to the n-gon the turtle program is creating?
+- Can I randomize the colors the turtle pen uses for each line created by said pen?
+- Why is the shape of my turtle pen (ex. the arrow, the triangle, the turtle) black while its outlines are a different color?
+- Is it possible to make a big n-gon with the turtle pen if my pen starts in a different place?
+- Can I create a different shape (not an n-gon; ex. circle, triangle, semi-circle) with the given turtle program while also ensuring that each turtle pen shape (ex. arrow, triangle, turtle) are equidistant to each other?
 
 ```
-#### Description Of The App according to User Story
+## Description Of The App according to the User Story:
 
-`
-# Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
-## For Regrades use the Feedback and @baeztheprog on your commit messages.
+### This application, Traversing Turtles, was created for artists and designers alike, allowing for them to create a variety of interesting spirals and shapes. This application is able to change the color of each side or segment of each spiral and shape it creates while also changing the pen shape of each side or segment of each spiral and shape in the process. Finally, this application allows for artists and designers to utilize many different colors and locations within this application.
+
+## Code Result:
+
+![Video of Code Result](https://github.com/Aero-ComSci/117-traversing-turtles-LemonSCoder/blob/main/images/TraversingTurtlesVid.gif)
