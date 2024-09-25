@@ -4,7 +4,7 @@
 ### This program draws an n-gon, with each side of the n-gon being a different color and having a different shape for the turtle pen (ex. arrow, triangle, turtle). This program is for anyone who wishes to be stimulated by little shapes being drawn across a screen or want to know the capabilities of the turtle module. This program is also for anyone who's interested in creating art or designs via the turtle module.
 ---
 
-## Questions about the Activity as you work. 
+## Questions about the Activity:
 ```
 - Are there more turtle shapes I can use to add more sides to the n-gon the turtle program is creating?
 - Can I randomize the colors the turtle pen uses for each line created by said pen?
