@@ -13,8 +13,9 @@
 - Can I create a different shape (not an n-gon; ex. circle, triangle, semi-circle) with the given turtle program while also ensuring that each turtle pen shape (ex. arrow, triangle, turtle) are equidistant to each other?
 
 ```
-#### Description Of The App according to User Story
-This application, Traversing Turtles, was created for artists and designers alike, allowing for them to create a variety of interesting spirals and shapes. This application is able to change the color of each side or segment of each spiral and shape it creates while also changing the pen shape of each side or segment of each piral and shape in the process. Finally, this application allows for artists and designers to utilize many different colors, locations
+## Description Of The App according to User Story:
+
+### This application, Traversing Turtles, was created for artists and designers alike, allowing for them to create a variety of interesting spirals and shapes. This application is able to change the color of each side or segment of each spiral and shape it creates while also changing the pen shape of each side or segment of each spiral and shape in the process. Finally, this application allows for artists and designers to utilize many different colors and locations within this application.
 
 # Code Result:
 
